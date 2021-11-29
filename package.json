@@ -10,12 +10,24 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
     "expo": "~43.0.2",
+    "expo-app-loading": "~1.2.1",
+    "expo-font": "~10.0.3",
     "expo-status-bar": "~1.1.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.7.2",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
-    "react-native-web": "0.17.1"
+    "react-native-communications": "^2.2.1",
+    "react-native-flash-message": "^0.2.0",
+    "react-native-sendgrid": "^1.0.2",
+    "react-native-sweet-alert": "^3.5.0",
+    "react-native-web": "0.17.1",
+    "sweetalert": "^2.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
